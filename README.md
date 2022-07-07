@@ -1,2 +1,2 @@
-# Taco-Bison :Taco: :Bison:
+# Taco-Bison :taco: :bison:
 Time to start coding!
