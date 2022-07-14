@@ -1,1 +1,1 @@
-Simple functions for a coffe machine written in 🐍
+Simple functions for a coffe machine
